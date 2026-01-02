@@ -1,0 +1,2 @@
+python-ev3dev==1.2.0
+pytest==8.4.2
